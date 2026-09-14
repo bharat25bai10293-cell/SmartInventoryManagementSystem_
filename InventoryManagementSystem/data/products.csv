@@ -1,0 +1,6 @@
+id,name,category,price,quantity,lowStockThreshold
+101,mouse,ELECTRONICS,200.0,18,2
+103,Steel Bottle,HOUSEHOLD,499.0,8,4
+104,Basmati Rice,GROCERY,650.0,25,8
+105,T-Shirt,CLOTHING,599.0,50,5
+209,snacks,ELECTRONICS,100.0,23,23
