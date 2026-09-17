@@ -5,8 +5,8 @@ Use this content as the basis of the portal PDF report.
 ## 1. Cover Page
 **Smart Inventory Management System**  
 Course: Java / Programming Course  
-Student: [Your Name]  
-Registration Number: [Your Registration Number]  
+Student: Bharat singh 
+Registration Number:25bai10293
 Institution: VIT Bhopal University  
 Academic Year: 2026
 
