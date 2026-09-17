@@ -6,8 +6,12 @@ Use this content as the basis of the portal PDF report.
 **Smart Inventory Management System**  
 Course: Java / Programming Course  
 Student: Bharat singh 
+
 Registration Number:25bai10293
+
 Institution: VIT Bhopal University  
+
+
 Academic Year: 2026
 
 ## 2. Introduction
